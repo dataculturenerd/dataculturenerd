@@ -20,7 +20,7 @@ Let's explore the synergy between data analytics education and risk management. 
 
 - [LinkedIn](https://www.linkedin.com/in/lewisheuermann/)
 - 📧 Email me at [dataculturenerd@gmail.com]
-
+- 📊 Tableau Public: https://public.tableau.com/app/profile/lewis.heuermann/ 
 ---
 
 Feel free to check my repositories below for resources on data analytics and risk management projects, course materials, and insightful discussions on the latest in cyber risk quantification.
